@@ -1,0 +1,54 @@
+main {
+  background-color: lightgray;
+  height: 1250px;
+  width: 500px;
+  padding: 10px;
+}
+
+aside {
+  float: left;
+}
+
+span {
+  font-family: 'Indie Flower', cursive;
+  font-size: 24px;
+}
+
+hr {
+  border: 1px dotted purple;
+}
+
+.long-div {
+  background-color: #ffff66;
+  height: 460px;
+  width: 210px;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 24px;
+}
+
+.square-div {
+  height: 215px;
+  width: 210px;
+  padding: 35px 20px 0px 20px;
+  text-align: center;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+.pink-background {
+  background-color: #ff9999;
+  font-variant: small-caps;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.orange-background {
+  background-color: #ffb366;
+  font-size: 20px;
+}
+
+.teal-background {
+  background-color: #ccffff;
+  font-size: 22px;
+}
